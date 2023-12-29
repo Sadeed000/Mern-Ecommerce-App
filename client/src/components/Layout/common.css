@@ -1,0 +1,11 @@
+ .home{
+    background: url('./img/cloth.webp');
+    background-position: center;
+    background-size: cover;
+    width:100%;
+    height:70vh
+  } 
+  /* .container .home{
+    background: url('../components/img/hero.jpg');
+  
+  } */
