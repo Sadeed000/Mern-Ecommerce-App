@@ -153,7 +153,7 @@ const AllProducts = () => {
                   <div className="icons fs-1">
                   <i class="fa-solid fa-eye"></i>
                   <i class="fa-solid fa-heart"></i>
-                  </div>
+                  </div className='figure'>
                   <Link to={`/product/${p.slug}`} className="text-decoration-none">
 
                   <img
